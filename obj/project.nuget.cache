@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6E/IguPC2UH/NXYeabJJ3wW4Z+BP1vNTol7RtJp7zctQ8PIc2lCwTY7w2FzOkSlet7Qr8N/bZI2KGeoS4GR8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilal\\Desktop\\Mini Project\\EmployeeForm\\EmployeeForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilal\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

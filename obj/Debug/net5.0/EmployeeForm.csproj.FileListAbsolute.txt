@@ -1,0 +1,82 @@
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\appsettings.json
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.exe
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.deps.json
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.runtimeconfig.json
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.runtimeconfig.dev.json
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.dll
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.pdb
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.Views.dll
+C:\Users\junaid\source\repos\EmployeeForm\bin\Debug\net5.0\EmployeeForm.Views.pdb
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.csproj.AssemblyReference.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.AssemblyInfoInputs.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.AssemblyInfo.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.csproj.CoreCompileInputs.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorAssemblyInfo.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorAssemblyInfo.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\scopedcss\bundle\EmployeeForm.styles.css
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\staticwebassets\EmployeeForm.StaticWebAssets.Manifest.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.TagHelpers.input.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.TagHelpers.output.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorCoreGenerate.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorTargetAssemblyInfo.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorTargetAssemblyInfo.cs
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.Views.pdb
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.dll
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\refint\EmployeeForm.dll
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.pdb
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.genruntimeconfig.cache
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\ref\EmployeeForm.dll
+C:\Users\junaid\source\repos\EmployeeForm\obj\Debug\net5.0\EmployeeForm.csproj.CopyComplete
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\appsettings.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.exe
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.deps.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.runtimeconfig.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.runtimeconfig.dev.json
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.Views.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\bin\Debug\net5.0\EmployeeForm.Views.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.AssemblyInfoInputs.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.AssemblyInfo.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorAssemblyInfo.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorAssemblyInfo.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.TagHelpers.input.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.TagHelpers.output.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorCoreGenerate.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorTargetAssemblyInfo.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.RazorTargetAssemblyInfo.cs
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.Views.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\scopedcss\bundle\EmployeeForm.styles.css
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\EmployeeForm.StaticWebAssets.Manifest.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\EmployeeForm.StaticWebAssets.Pack.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\msbuild.EmployeeForm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\msbuild.build.EmployeeForm.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeForm.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EmployeeForm.props
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\refint\EmployeeForm.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.pdb
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.genruntimeconfig.cache
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\ref\EmployeeForm.dll
+C:\Users\bilal\Desktop\Mini Project\EmployeeForm\obj\Debug\net5.0\EmployeeForm.csproj.CopyComplete
